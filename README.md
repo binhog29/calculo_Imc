@@ -12,7 +12,7 @@ Calcula o Índice de Massa Corporal (IMC) com interface colorida em Python e Col
 
 ## Como rodar
 1. Instale Python e Colorama (`pip install colorama`).
-2. Rode `imc.py`.
+2. Rode `calculo_imc.py`.
 
 ## Exemplo
 Digite seu peso (kg): 70
